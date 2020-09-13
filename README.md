@@ -1,5 +1,5 @@
 # stackoverflow-snippets
-hard to remember the snippet format
+hard to remember the snippet format when offering help
 
 <h2>Standard</h2>
 

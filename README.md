@@ -8,15 +8,15 @@ hard to remember the snippet format when offering help
 
 <!-- language: lang-html -->
 
-    
+
     
 <!-- language: lang-js -->
 
-    
+
 
 <!-- language: lang-css -->
 
-    
+
 
 <!-- end snippet -->
 ```
